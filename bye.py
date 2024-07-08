@@ -1,0 +1,1 @@
+print("Goodbye goodbye, everyone say goodbye")
