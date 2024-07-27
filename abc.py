@@ -1,3 +1,3 @@
 open("blah.geojson", "w").write("""
-{"geometry": {"coordinates": [[10, 10, 10], [100, 100, 100]]}}
+{"geometry": {"coordinates": [{"time": 10, "latitude": 10, "longitude": 10, "altitude": 10}, {"time": 100, "latitude": 60, "longitude": 100, "altitude": 100}]}}
 """)
